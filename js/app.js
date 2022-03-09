@@ -271,6 +271,14 @@ items.innerHTML = `
   <td>${alumno22.puntaje}</td>
 </tr>
 <tr>
+  <td><i class="bi-trophy-fill"></i> ${alumno24.name}</td>
+  <td>${alumno24.asistencias}</td>
+  <td>${alumno24.modulos}</td>
+  <td>${alumno24.evaluaciones}</td>
+  <td>${alumno24.recuperatorios}</td>
+  <td>${alumno24.puntaje}</td>
+</tr>
+<tr>
   <td><i class="bi-trophy-fill"></i> ${alumno5.name}</td>
   <td>${alumno5.asistencias}</td>
   <td>${alumno5.modulos}</td>
@@ -323,15 +331,6 @@ items.innerHTML = `
   <td>${alumno21.puntaje}</td>
 </tr>
 
-
-<tr>
-  <td><i class="bi-trophy-fill"></i> ${alumno24.name}</td>
-  <td>${alumno24.asistencias}</td>
-  <td>${alumno24.modulos}</td>
-  <td>${alumno24.evaluaciones}</td>
-  <td>${alumno24.recuperatorios}</td>
-  <td>${alumno24.puntaje}</td>
-</tr>
 <tr>
   <td><i class="bi-trophy-fill"></i> ${alumno2.name}</td>
   <td>${alumno2.asistencias}</td>
