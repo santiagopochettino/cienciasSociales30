@@ -3,11 +3,11 @@ const items = document.getElementById('items')
 
 const alumno1 = {
   name: 'Arregui, Thiago',
-  asistencias: 3,
+  asistencias: 4,
   modulos: 0,
   evaluaciones: 0,
   recuperatorios: 0,
-  puntaje: 3
+  puntaje: 4
 }
 const alumno2 = {
   name: 'Barletta, Milagros',
@@ -27,27 +27,27 @@ const alumno3 = {
 }
 const alumno4 = {
   name: 'Cordoba, Renata',
-  asistencias: 3,
+  asistencias: 4,
   modulos: 0,
   evaluaciones: 0,
   recuperatorios: 0,
-  puntaje: 3
+  puntaje: 4
 }
 const alumno5 = {
   name: 'Infante, Nahiara',
-  asistencias: 2,
-  modulos: 0,
-  evaluaciones: 0,
-  recuperatorios: 0,
-  puntaje: 2
-}
-const alumno6 = {
-  name: 'Farfan, Malena',
   asistencias: 3,
   modulos: 0,
   evaluaciones: 0,
   recuperatorios: 0,
   puntaje: 3
+}
+const alumno6 = {
+  name: 'Farfan, Malena',
+  asistencias: 4,
+  modulos: 0,
+  evaluaciones: 0,
+  recuperatorios: 0,
+  puntaje: 4
 }
 const alumno7 = {
   name: 'Garcia, Florencia',
@@ -83,27 +83,27 @@ const alumno10 = {
 }
 const alumno11 = {
   name: 'Juarez, Luis Gustavo',
-  asistencias: 2,
-  modulos: 0,
-  evaluaciones: 0,
-  recuperatorios: 0,
-  puntaje: 2
-}
-const alumno12 = {
-  name: 'Junco, Lucas',
-  asistencias: 2,
-  modulos: 0,
-  evaluaciones: 0,
-  recuperatorios: 0,
-  puntaje: 2
-}
-const alumno13 = {
-  name: 'Ludueña, Uriel',
   asistencias: 3,
   modulos: 0,
   evaluaciones: 0,
   recuperatorios: 0,
   puntaje: 3
+}
+const alumno12 = {
+  name: 'Junco, Lucas',
+  asistencias: 3,
+  modulos: 0,
+  evaluaciones: 0,
+  recuperatorios: 0,
+  puntaje: 3
+}
+const alumno13 = {
+  name: 'Ludueña, Uriel',
+  asistencias: 4,
+  modulos: 0,
+  evaluaciones: 0,
+  recuperatorios: 0,
+  puntaje: 4
 }
 const alumno14 = {
   name: 'Mele, Nehemias',
@@ -115,19 +115,19 @@ const alumno14 = {
 }
 const alumno15 = {
   name: 'Morua, Lucia',
-  asistencias: 2,
-  modulos: 0,
-  evaluaciones: 0,
-  recuperatorios: 0,
-  puntaje: 2
-}
-const alumno16 = {
-  name: 'Passeri, Alma',
   asistencias: 3,
   modulos: 0,
   evaluaciones: 0,
   recuperatorios: 0,
   puntaje: 3
+}
+const alumno16 = {
+  name: 'Passeri, Alma',
+  asistencias: 4,
+  modulos: 0,
+  evaluaciones: 0,
+  recuperatorios: 0,
+  puntaje: 4
 }
 const alumno17 = {
   name: 'Ponce, Santino',
@@ -139,43 +139,43 @@ const alumno17 = {
 }
 const alumno18 = {
   name: 'Quinteros, Facundo',
-  asistencias: 3,
+  asistencias: 4,
   modulos: 0,
   evaluaciones: 0,
   recuperatorios: 0,
-  puntaje: 3
+  puntaje: 4
 }
 const alumno19 = {
   name: 'Rodriguez, Marcos',
-  asistencias: 3,
+  asistencias: 4,
   modulos: 0,
   evaluaciones: 0,
   recuperatorios: 0,
-  puntaje: 3
+  puntaje: 4
 }
 const alumno20 = {
   name: 'Román, Luca',
-  asistencias: 3,
+  asistencias: 4,
   modulos: 0,
   evaluaciones: 0,
   recuperatorios: 0,
-  puntaje: 3
+  puntaje: 4
 }
 const alumno21 = {
   name: 'Rosales, Mia',
-  asistencias: 2,
-  modulos: 0,
-  evaluaciones: 0,
-  recuperatorios: 0,
-  puntaje: 2
-}
-const alumno22 = {
-  name: 'Torres, Priscila',
   asistencias: 3,
   modulos: 0,
   evaluaciones: 0,
   recuperatorios: 0,
   puntaje: 3
+}
+const alumno22 = {
+  name: 'Torres, Priscila',
+  asistencias: 4,
+  modulos: 0,
+  evaluaciones: 0,
+  recuperatorios: 0,
+  puntaje: 4
 }
 const alumno23 = {
   name: 'Zapias, Zoe',
@@ -187,11 +187,43 @@ const alumno23 = {
 }
 const alumno24 = {
   name: 'Brenni, Benjamin',
-  asistencias: 2,
+  asistencias: 3,
   modulos: 0,
   evaluaciones: 0,
   recuperatorios: 0,
-  puntaje: 2
+  puntaje: 3
+}
+const alumno25 = {
+  name: 'Fernandez, Jenaro',
+  asistencias: 1,
+  modulos: 0,
+  evaluaciones: 0,
+  recuperatorios: 0,
+  puntaje: 1
+}
+const alumno26 = {
+  name: 'Quiroga, Tomás',
+  asistencias: 1,
+  modulos: 0,
+  evaluaciones: 0,
+  recuperatorios: 0,
+  puntaje: 1
+}
+const alumno27 = {
+  name: 'Chavez, Dilan',
+  asistencias: 1,
+  modulos: 0,
+  evaluaciones: 0,
+  recuperatorios: 0,
+  puntaje: 1
+}
+const alumno28 = {
+  name: 'Cano, Zaira',
+  asistencias: 1,
+  modulos: 0,
+  evaluaciones: 0,
+  recuperatorios: 0,
+  puntaje: 1
 }
 
 
@@ -305,14 +337,6 @@ items.innerHTML = `
 </tr>
 
 <tr>
-  <td><i class="bi-trophy-fill"></i> ${alumno14.name}</td>
-  <td>${alumno14.asistencias}</td>
-  <td>${alumno14.modulos}</td>
-  <td>${alumno14.evaluaciones}</td>
-  <td>${alumno14.recuperatorios}</td>
-  <td>${alumno14.puntaje}</td>
-</tr>
-<tr>
   <td><i class="bi-trophy-fill"></i> ${alumno15.name}</td>
   <td>${alumno15.asistencias}</td>
   <td>${alumno15.modulos}</td>
@@ -329,6 +353,47 @@ items.innerHTML = `
   <td>${alumno21.evaluaciones}</td>
   <td>${alumno21.recuperatorios}</td>
   <td>${alumno21.puntaje}</td>
+</tr>
+
+<tr>
+  <td><i class="bi-trophy-fill"></i> ${alumno14.name}</td>
+  <td>${alumno14.asistencias}</td>
+  <td>${alumno14.modulos}</td>
+  <td>${alumno14.evaluaciones}</td>
+  <td>${alumno14.recuperatorios}</td>
+  <td>${alumno14.puntaje}</td>
+</tr>
+<tr>
+  <td><i class="bi-trophy-fill"></i> ${alumno25.name}</td>
+  <td>${alumno25.asistencias}</td>
+  <td>${alumno25.modulos}</td>
+  <td>${alumno25.evaluaciones}</td>
+  <td>${alumno25.recuperatorios}</td>
+  <td>${alumno25.puntaje}</td>
+</tr>
+<tr>
+  <td><i class="bi-trophy-fill"></i> ${alumno26.name}</td>
+  <td>${alumno26.asistencias}</td>
+  <td>${alumno26.modulos}</td>
+  <td>${alumno26.evaluaciones}</td>
+  <td>${alumno26.recuperatorios}</td>
+  <td>${alumno26.puntaje}</td>
+</tr>
+<tr>
+  <td><i class="bi-trophy-fill"></i> ${alumno27.name}</td>
+  <td>${alumno27.asistencias}</td>
+  <td>${alumno27.modulos}</td>
+  <td>${alumno27.evaluaciones}</td>
+  <td>${alumno27.recuperatorios}</td>
+  <td>${alumno27.puntaje}</td>
+</tr>
+<tr>
+  <td><i class="bi-trophy-fill"></i> ${alumno28.name}</td>
+  <td>${alumno28.asistencias}</td>
+  <td>${alumno28.modulos}</td>
+  <td>${alumno28.evaluaciones}</td>
+  <td>${alumno28.recuperatorios}</td>
+  <td>${alumno28.puntaje}</td>
 </tr>
 
 <tr>
@@ -396,5 +461,6 @@ items.innerHTML = `
   <td>${alumno23.recuperatorios}</td>
   <td>${alumno23.puntaje}</td>
 </tr>
+
 
 `;
