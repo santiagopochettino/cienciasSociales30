@@ -11491,6 +11491,7 @@ header.masthead h1, header.masthead .h1 {
 .btn-modulos{
   margin-top: 20px;
   
+  
 }
 
 /*********** modulos.html*************/
@@ -11617,4 +11618,26 @@ header.mastheadContenidos h1, header.mastheadContenidos .h1 {
 .footer-color{
   background-color: #f4623a;
   color: #fff;
+}
+/****************************************/
+/*/video*/
+.video{
+ height:700px;
+ border-radius: 50px;
+}
+.video-h1{
+  font-family: 'Fredericka the Great', cursive;
+}
+
+@media (max-width: 768px) {
+  .video{
+    height:100px;
+   
+   }
+}
+@media (max-width: 1200px) {
+  .video{
+    height:150px;
+   
+   }
 }
