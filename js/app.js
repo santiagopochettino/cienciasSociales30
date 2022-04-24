@@ -212,7 +212,7 @@ items.innerHTML = `
   <td>${alumno17.asistencias}</td>
   <td>${alumno17.tbc}</td>
   <td>${alumno17.modulos}</td>
-  <td>${alumno17.evaluaciones}</td>
+  <td><i class="bi-star-fill"></i> ${alumno17.evaluaciones}</td>
   <td>${alumno17.recuperatorios}</td>
   <td>${alumno17.puntaje}</td>
 </tr>
@@ -247,7 +247,7 @@ items.innerHTML = `
   <td>${alumno18.asistencias}</td>
   <td>${alumno18.tbc}</td>
   <td>${alumno18.modulos}</td>
-  <td>${alumno18.evaluaciones}</td>
+  <td><i class="bi-star-fill"></i> ${alumno18.evaluaciones}</td>
   <td>${alumno18.recuperatorios}</td>
   <td>${alumno18.puntaje}</td>
 </tr>
