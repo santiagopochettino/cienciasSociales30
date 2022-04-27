@@ -6,128 +6,128 @@ const alumno1 = {
   asistencias: 11,
   tbc:4,
   modulos: 9,
-  evaluaciones: 'Des',
-  recuperatorios: 0,
-  puntaje: 24
+  evaluaciones: 6,
+  recuperatorios: 'Aus',
+  puntaje: 30
 }
 const alumno2 = {
   name: 'Brenni, Benjamin',
-  asistencias: 11,
-  tbc:6,
+  asistencias: 12,
+  tbc:7,
   modulos: 7,
-  evaluaciones:'Des',
-  recuperatorios: 0,
-  puntaje: 24
+  evaluaciones:5,
+  recuperatorios: 'Aus',
+  puntaje: 31
 }
 
 const alumno3 = {
   name: 'Cano, Zaira',
-  asistencias: 11,
-  tbc:6,
+  asistencias: 13,
+  tbc:8,
   modulos: 10,
   evaluaciones: 8,
-  recuperatorios: 0,
-  puntaje: 35
+  recuperatorios: '-',
+  puntaje: 39
 }
 const alumno4 = {
   name: 'Chavez, Dilan',
-  asistencias: 10,
-  tbc:4,
+  asistencias: 11,
+  tbc:5,
   modulos: 'N/E',
   evaluaciones: 'Des',
-  recuperatorios: 0,
-  puntaje: 14
+  recuperatorios: 'Aus',
+  puntaje: 16
 }
 const alumno5 = {
   name: 'Cordoba, Renata',
-  asistencias: 14,
-  tbc:6,
+  asistencias: 16,
+  tbc:8,
   modulos: 10,
-  evaluaciones: 'Des',
-  recuperatorios: 0,
-  puntaje: 30
+  evaluaciones: '-',
+  recuperatorios: 8,
+  puntaje: 42
 }
 
 const alumno6 = {
   name: 'Farfan, Malena',
-  asistencias: 14,
-  tbc:6,
+  asistencias: 16,
+  tbc:8,
   modulos: 10,
   evaluaciones: 9,
-  recuperatorios: 0,
-  puntaje: 39
+  recuperatorios: '-',
+  puntaje: 43
 }
 const alumno7 = {
   name: 'Fernandez, Jenaro',
-  asistencias: 12,
-  tbc:6,
+  asistencias: 14,
+  tbc:8,
   modulos: 10,
   evaluaciones: 8,
-  recuperatorios: 0,
-  puntaje: 36
+  recuperatorios: '-',
+  puntaje: 40
 }
 const alumno8 = {
   name: 'Juarez, Gustavo',
-  asistencias: 13,
-  tbc:6,
+  asistencias: 14,
+  tbc:7,
   modulos: 10,
   evaluaciones: 9,
-  recuperatorios: 0,
-  puntaje: 38
+  recuperatorios: '-',
+  puntaje: 40
 }
 const alumno9 = {
   name: 'Junco, Lucas',
-  asistencias: 13,
-  tbc:6,
+  asistencias: 15,
+  tbc:8,
   modulos: 9,
   evaluaciones:'Des',
-  recuperatorios: 0,
-  puntaje: 28
+  recuperatorios: 5,
+  puntaje: 37
 }
 const alumno10 = {
   name: 'Ludueña, Uriel',
-  asistencias: 14,
-  tbc:5,
-  modulos: 10,
-  evaluaciones: 'Des',
-  recuperatorios: 0,
-  puntaje: 29
-}
-const alumno11 = {
-  name: 'Mele, Nehemias',
-  asistencias: 10,
-  tbc:4,
-  modulos: 7,
-  evaluaciones: 'Des',
-  recuperatorios: 0,
-  puntaje: 21
-}
-const alumno12 = {
-  name: 'Morua, Lucia',
-  asistencias: 12,
-  tbc:6,
-  modulos: 0,
-  evaluaciones: 'Des',
-  recuperatorios: 0,
-  puntaje: 18
-}
-const alumno13 = {
-  name: 'Passeri, Alma',
-  asistencias: 13,
-  tbc:4,
-  modulos: 10,
-  evaluaciones: 8,
-  recuperatorios: 0,
-  puntaje: 35
-}
-const alumno14 = {
-  name: 'Quinteros, Facundo',
   asistencias: 15,
   tbc:6,
   modulos: 10,
-  evaluaciones:'Des',
-  recuperatorios: 0,
-  puntaje: 31
+  evaluaciones: 6,
+  recuperatorios: 'Aus',
+  puntaje: 37
+}
+const alumno11 = {
+  name: 'Mele, Nehemias',
+  asistencias: 11,
+  tbc:5,
+  modulos: 7,
+  evaluaciones: 4,
+  recuperatorios: 'Aus',
+  puntaje: 27
+}
+const alumno12 = {
+  name: 'Morua, Lucia',
+  asistencias: 13,
+  tbc:7,
+  modulos: 0,
+  evaluaciones: 3,
+  recuperatorios: 'Aus',
+  puntaje: 23
+}
+const alumno13 = {
+  name: 'Passeri, Alma',
+  asistencias: 15,
+  tbc:6,
+  modulos: 10,
+  evaluaciones: 8,
+  recuperatorios: '-',
+  puntaje: 39
+}
+const alumno14 = {
+  name: 'Quinteros, Facundo',
+  asistencias: 17,
+  tbc:8,
+  modulos: 10,
+  evaluaciones:'-',
+  recuperatorios: 8,
+  puntaje: 43
 }
 
 const alumno15 = {
@@ -136,72 +136,72 @@ const alumno15 = {
   tbc:3,
   modulos: 'N/E',
   evaluaciones: 'Aus',
-  recuperatorios: 0,
+  recuperatorios: 'Aus',
   puntaje: 10
 }
 const alumno16 = {
   name: 'Rodriguez, Marcos',
-  asistencias: 14,
-  tbc:6,
+  asistencias: 16,
+  tbc:8,
   modulos: 10,
-  evaluaciones: 'Des',
-  recuperatorios: 0,
-  puntaje: 30
+  evaluaciones: '-',
+  recuperatorios: 7,
+  puntaje: 41
 }
 const alumno17 = {
   name: 'Román, Luca',
-  asistencias: 15,
-  tbc:6,
+  asistencias: 17,
+  tbc:8,
   modulos: 10,
   evaluaciones: 10,
-  recuperatorios: 0,
-  puntaje: 41
+  recuperatorios: '-',
+  puntaje: 45
 }
 
 const alumno18 = {
   name: 'Rosales, Mia',
-  asistencias: 13,
-  tbc:5,
+  asistencias: 14,
+  tbc:6,
   modulos: 10,
   evaluaciones: 10,
-  recuperatorios: 0,
-  puntaje: 38
+  recuperatorios: '-',
+  puntaje: 40
 }
 const alumno19 = {
   name: 'Torres, Priscila',
-  asistencias: 15,
-  tbc:6,
+  asistencias: 17,
+  tbc:8,
   modulos: 10,
-  evaluaciones: 'Des',
-  recuperatorios: 0,
-  puntaje: 31
+  evaluaciones: '-',
+  recuperatorios: 8,
+  puntaje: 43
 }
 const alumno20 = {
   name: 'Infante, Nahiara',
-  asistencias: 8,
-  tbc:5,
+  asistencias: 10,
+  tbc:7,
   modulos: 3,
   evaluaciones: 7,
-  recuperatorios: 0,
-  puntaje: 23
+  recuperatorios: '-',
+  puntaje: 27
 }
 const alumno21 = {
   name: 'Beer, Kevin',
-  asistencias: 9,
-  tbc:6,
+  asistencias: 11,
+  tbc:8,
   modulos: 4,
-  evaluaciones: 'Des',
-  recuperatorios: 0,
-  puntaje: 19
+  evaluaciones: '-',
+  recuperatorios: 7,
+  puntaje: 30
 }
 const alumno22 = {
   name: 'Carrizo, Demian',
-  asistencias: 4,
-  tbc:4,
+  asistencias: 5,
+  tbc:5,
   modulos: 0,
-  evaluaciones:'Des',
-  recuperatorios: 0,
-  puntaje: 8
+  evaluaciones:1,
+  recuperatorios: 'Aus',
+  puntaje: 11
 }
 
 
@@ -227,6 +227,47 @@ items.innerHTML = `
   <td>${alumno6.recuperatorios}</td>
   <td>${alumno6.puntaje}</td>
 </tr>
+
+<tr>
+  <td><i class="bi-trophy-fill"></i> ${alumno19.name}</td>
+  <td>${alumno19.asistencias}</td>
+  <td>${alumno19.tbc}</td>
+  <td>${alumno19.modulos}</td>
+  <td>${alumno19.evaluaciones}</td>
+  <td>${alumno19.recuperatorios}</td>
+  <td>${alumno19.puntaje}</td>
+</tr>
+
+
+<tr>
+  <td><i class="bi-trophy-fill"></i> ${alumno14.name}</td>
+  <td>${alumno14.asistencias}</td>
+  <td>${alumno14.tbc}</td>
+  <td>${alumno14.modulos}</td>
+  <td>${alumno14.evaluaciones}</td>
+  <td>${alumno14.recuperatorios}</td>
+  <td>${alumno14.puntaje}</td>
+</tr>
+
+<tr>
+  <td><i class="bi-trophy-fill"></i> ${alumno5.name}</td>
+  <td>${alumno5.asistencias}</td>
+  <td>${alumno5.tbc}</td>
+  <td>${alumno5.modulos}</td>
+  <td>${alumno5.evaluaciones}</td>
+  <td>${alumno5.recuperatorios}</td>
+  <td>${alumno5.puntaje}</td>
+</tr>
+<tr>
+  <td><i class="bi-trophy-fill"></i> ${alumno16.name}</td>
+  <td>${alumno16.asistencias}</td>
+  <td>${alumno16.tbc}</td>
+  <td>${alumno16.modulos}</td>
+  <td>${alumno16.evaluaciones}</td>
+  <td>${alumno16.recuperatorios}</td>
+  <td>${alumno16.puntaje}</td>
+</tr>
+
 
 
 
@@ -278,57 +319,8 @@ items.innerHTML = `
   <td>${alumno3.recuperatorios}</td>
   <td>${alumno3.puntaje}</td>
 </tr>
-<tr>
-  <td><i class="bi-trophy-fill"></i> ${alumno19.name}</td>
-  <td>${alumno19.asistencias}</td>
-  <td>${alumno19.tbc}</td>
-  <td>${alumno19.modulos}</td>
-  <td>${alumno19.evaluaciones}</td>
-  <td>${alumno19.recuperatorios}</td>
-  <td>${alumno19.puntaje}</td>
-</tr>
 
 
-<tr>
-  <td><i class="bi-trophy-fill"></i> ${alumno14.name}</td>
-  <td>${alumno14.asistencias}</td>
-  <td>${alumno14.tbc}</td>
-  <td>${alumno14.modulos}</td>
-  <td>${alumno14.evaluaciones}</td>
-  <td>${alumno14.recuperatorios}</td>
-  <td>${alumno14.puntaje}</td>
-</tr>
-<tr>
-  <td><i class="bi-trophy-fill"></i> ${alumno16.name}</td>
-  <td>${alumno16.asistencias}</td>
-  <td>${alumno16.tbc}</td>
-  <td>${alumno16.modulos}</td>
-  <td>${alumno16.evaluaciones}</td>
-  <td>${alumno16.recuperatorios}</td>
-  <td>${alumno16.puntaje}</td>
-</tr>
-
-
-<tr>
-  <td><i class="bi-trophy-fill"></i> ${alumno5.name}</td>
-  <td>${alumno5.asistencias}</td>
-  <td>${alumno5.tbc}</td>
-  <td>${alumno5.modulos}</td>
-  <td>${alumno5.evaluaciones}</td>
-  <td>${alumno5.recuperatorios}</td>
-  <td>${alumno5.puntaje}</td>
-</tr>
-
-
-<tr>
-  <td><i class="bi-trophy-fill"></i> ${alumno10.name}</td>
-  <td>${alumno10.asistencias}</td>
-  <td>${alumno10.tbc}</td>
-  <td>${alumno10.modulos}</td>
-  <td>${alumno10.evaluaciones}</td>
-  <td>${alumno10.recuperatorios}</td>
-  <td>${alumno10.puntaje}</td>
-</tr>
 
 
 
@@ -341,6 +333,18 @@ items.innerHTML = `
   <td>${alumno9.recuperatorios}</td>
   <td>${alumno9.puntaje}</td>
 </tr>
+
+<tr>
+  <td><i class="bi-trophy-fill"></i> ${alumno10.name}</td>
+  <td>${alumno10.asistencias}</td>
+  <td>${alumno10.tbc}</td>
+  <td>${alumno10.modulos}</td>
+  <td>${alumno10.evaluaciones}</td>
+  <td>${alumno10.recuperatorios}</td>
+  <td>${alumno10.puntaje}</td>
+</tr>
+
+
 <tr>
   <td><i class="bi-trophy-fill"></i> ${alumno2.name}</td>
   <td>${alumno2.asistencias}</td>
@@ -350,6 +354,17 @@ items.innerHTML = `
   <td>${alumno2.recuperatorios}</td>
   <td>${alumno2.puntaje}</td>
 </tr>
+
+<tr>
+  <td><i class="bi-trophy-fill"></i> ${alumno21.name}</td>
+  <td>${alumno21.asistencias}</td>
+  <td>${alumno21.tbc}</td>
+  <td>${alumno21.modulos}</td>
+  <td>${alumno21.evaluaciones}</td>
+  <td>${alumno21.recuperatorios}</td>
+  <td>${alumno21.puntaje}</td>
+</tr>
+
 
 <tr>
   <td><i class="bi-trophy-fill"></i> ${alumno1.name}</td>
@@ -385,18 +400,6 @@ items.innerHTML = `
 
 
 <tr>
-  <td><i class="bi-trophy-fill"></i> ${alumno21.name}</td>
-  <td>${alumno21.asistencias}</td>
-  <td>${alumno21.tbc}</td>
-  <td>${alumno21.modulos}</td>
-  <td>${alumno21.evaluaciones}</td>
-  <td>${alumno21.recuperatorios}</td>
-  <td>${alumno21.puntaje}</td>
-</tr>
-
-
-
-<tr>
   <td><i class="bi-trophy-fill"></i> ${alumno12.name}</td>
   <td>${alumno12.asistencias}</td>
   <td>${alumno12.tbc}</td>
@@ -416,6 +419,16 @@ items.innerHTML = `
   <td>${alumno4.recuperatorios}</td>
   <td>${alumno4.puntaje}</td>
 </tr>
+
+<tr>
+  <td><i class="bi-trophy-fill"></i> ${alumno22.name}</td>
+  <td>${alumno22.asistencias}</td>
+  <td>${alumno22.tbc}</td>
+  <td>${alumno22.modulos}</td>
+  <td>${alumno22.evaluaciones}</td>
+  <td>${alumno22.recuperatorios}</td>
+  <td>${alumno22.puntaje}</td>
+</tr>
 <tr>
   <td><i class="bi-trophy-fill"></i> ${alumno15.name}</td>
   <td>${alumno15.asistencias}</td>
@@ -427,15 +440,6 @@ items.innerHTML = `
 </tr>
 
 
-<tr>
-  <td><i class="bi-trophy-fill"></i> ${alumno22.name}</td>
-  <td>${alumno22.asistencias}</td>
-  <td>${alumno22.tbc}</td>
-  <td>${alumno22.modulos}</td>
-  <td>${alumno22.evaluaciones}</td>
-  <td>${alumno22.recuperatorios}</td>
-  <td>${alumno22.puntaje}</td>
-</tr>
 
 
 `;
