@@ -3,12 +3,12 @@ const items = document.getElementById('items')
 
 const alumno1 = {
   name: 'Arregui, Thiago',
-  asistencias: 11,
+  asistencias: 12,
   tbc:4,
   modulos: 9,
   evaluaciones: 6,
   recuperatorios: 'Aus',
-  puntaje: 30
+  puntaje: 31
 }
 const alumno2 = {
   name: 'Brenni, Benjamin',
@@ -22,85 +22,85 @@ const alumno2 = {
 
 const alumno3 = {
   name: 'Cano, Zaira',
-  asistencias: 13,
+  asistencias: 14,
   tbc:8,
   modulos: 10,
   evaluaciones: 8,
   recuperatorios: '-',
-  puntaje: 39
+  puntaje: 40
 }
 const alumno4 = {
   name: 'Chavez, Dilan',
-  asistencias: 11,
+  asistencias: 12,
   tbc:5,
   modulos: 'N/E',
   evaluaciones: 'Des',
   recuperatorios: 'Aus',
-  puntaje: 16
+  puntaje: 17
 }
 const alumno5 = {
   name: 'Cordoba, Renata',
-  asistencias: 16,
+  asistencias: 17,
   tbc:8,
   modulos: 10,
   evaluaciones: '-',
   recuperatorios: 8,
-  puntaje: 42
+  puntaje: 43
 }
 
 const alumno6 = {
   name: 'Farfan, Malena',
-  asistencias: 16,
+  asistencias: 17,
   tbc:8,
   modulos: 10,
   evaluaciones: 9,
   recuperatorios: '-',
-  puntaje: 43
+  puntaje: 44
 }
 const alumno7 = {
   name: 'Fernandez, Jenaro',
-  asistencias: 14,
+  asistencias: 15,
   tbc:8,
   modulos: 10,
   evaluaciones: 8,
   recuperatorios: '-',
-  puntaje: 40
+  puntaje: 41
 }
 const alumno8 = {
   name: 'Juarez, Gustavo',
-  asistencias: 14,
+  asistencias: 15,
   tbc:7,
   modulos: 10,
   evaluaciones: 9,
   recuperatorios: '-',
-  puntaje: 40
+  puntaje: 41
 }
 const alumno9 = {
   name: 'Junco, Lucas',
-  asistencias: 15,
+  asistencias: 16,
   tbc:8,
   modulos: 9,
   evaluaciones:'Des',
   recuperatorios: 5,
-  puntaje: 37
+  puntaje: 38
 }
 const alumno10 = {
   name: 'Ludueña, Uriel',
-  asistencias: 15,
+  asistencias: 16,
   tbc:6,
   modulos: 10,
   evaluaciones: 6,
   recuperatorios: 'Aus',
-  puntaje: 37
+  puntaje: 38
 }
 const alumno11 = {
   name: 'Mele, Nehemias',
-  asistencias: 11,
+  asistencias: 12,
   tbc:5,
   modulos: 7,
   evaluaciones: 4,
   recuperatorios: 'Aus',
-  puntaje: 27
+  puntaje: 28
 }
 const alumno12 = {
   name: 'Morua, Lucia',
@@ -113,31 +113,31 @@ const alumno12 = {
 }
 const alumno13 = {
   name: 'Passeri, Alma',
-  asistencias: 15,
+  asistencias: 16,
   tbc:6,
   modulos: 10,
   evaluaciones: 8,
   recuperatorios: '-',
-  puntaje: 39
+  puntaje: 40
 }
 const alumno14 = {
   name: 'Quinteros, Facundo',
-  asistencias: 17,
+  asistencias: 18,
   tbc:8,
   modulos: 10,
   evaluaciones:'-',
   recuperatorios: 8,
-  puntaje: 43
+  puntaje: 44
 }
 
 const alumno15 = {
   name: 'Quiroga, Tomás',
-  asistencias: 7,
+  asistencias: 8,
   tbc:3,
   modulos: 'N/E',
   evaluaciones: 'Aus',
   recuperatorios: 'Aus',
-  puntaje: 10
+  puntaje: 11
 }
 const alumno16 = {
   name: 'Rodriguez, Marcos',
@@ -150,58 +150,58 @@ const alumno16 = {
 }
 const alumno17 = {
   name: 'Román, Luca',
-  asistencias: 17,
+  asistencias: 18,
   tbc:8,
   modulos: 10,
   evaluaciones: 10,
   recuperatorios: '-',
-  puntaje: 45
+  puntaje: 46
 }
 
 const alumno18 = {
   name: 'Rosales, Mia',
-  asistencias: 14,
+  asistencias: 15,
   tbc:6,
   modulos: 10,
   evaluaciones: 10,
   recuperatorios: '-',
-  puntaje: 40
+  puntaje: 41
 }
 const alumno19 = {
   name: 'Torres, Priscila',
-  asistencias: 17,
+  asistencias: 18,
   tbc:8,
   modulos: 10,
   evaluaciones: '-',
   recuperatorios: 8,
-  puntaje: 43
+  puntaje: 44
 }
 const alumno20 = {
   name: 'Infante, Nahiara',
-  asistencias: 10,
+  asistencias: 11,
   tbc:7,
   modulos: 3,
   evaluaciones: 7,
   recuperatorios: '-',
-  puntaje: 27
+  puntaje: 28
 }
 const alumno21 = {
   name: 'Beer, Kevin',
-  asistencias: 11,
+  asistencias: 12,
   tbc:8,
   modulos: 4,
   evaluaciones: '-',
   recuperatorios: 7,
-  puntaje: 30
+  puntaje: 31
 }
 const alumno22 = {
   name: 'Carrizo, Demian',
-  asistencias: 5,
+  asistencias: 6,
   tbc:5,
   modulos: 0,
   evaluaciones:1,
   recuperatorios: 'Aus',
-  puntaje: 11
+  puntaje: 12
 }
 
 
